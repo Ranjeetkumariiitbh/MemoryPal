@@ -215,6 +215,9 @@ wikipedia==1.4.0
 wrapt==1.17.3
 yake==0.6.0
 yarl==1.20.0
+flask==3.0.3
+gunicorn==21.2.0
+
 
 
 
